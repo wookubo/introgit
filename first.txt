@@ -4,3 +4,6 @@ testtest
 1. addadd
 
 2. change git add/commit
+
+
+3. rm
